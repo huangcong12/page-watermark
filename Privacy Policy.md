@@ -35,8 +35,8 @@ We take appropriate measures to secure the data collected through our App. This 
 ## Third-Party Services
 
 We may use third-party services to assist with our operations, and they may have their own privacy policies. It is advisable to review the privacy policies of these third-party services.
-- [PlanetScale]:(https://planetscale.com/docs/concepts/security)
 - [fly.io](https://fly.io/legal/privacy-policy/)
+- [PlanetScale](https://planetscale.com/docs/concepts/security)
 
 ## User Rights
 
