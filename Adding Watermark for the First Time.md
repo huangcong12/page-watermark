@@ -36,4 +36,4 @@ Then click the "Save" button at the bottom of the browser. If there are no promp
 
 
 ---------------------------------------
-For more parameter configurations, please refer to the document "水印配置参数解析.md".
+For more parameter configurations, please refer to the document [Analysis of Watermark Configuration Parameters](https://github.com/huangcong12/page-watermark/blob/main/Analysis%20of%20Watermark%20Configuration%20Parameters.md).
